@@ -1,0 +1,26 @@
+name: repository
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      
+      
+      - name: Project from a repository
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.projects.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+          plugin_projects_descriptions: yes
+
