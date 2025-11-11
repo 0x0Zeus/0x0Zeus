@@ -11,38 +11,20 @@
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=0x0Zeus&color=brightgreen&label=PROFILE%20VIEWS&abbreviated=true&color=blueviolet&style=plastic)
 
----
-
 ## 👋 Introduction
 
-Full-Stack Engineer focused on building scalable, modern web applications. Experienced in delivering robust solutions across the stack, with additional skills in blockchain, AI, and mobile development.
+Hi, I’m Haruki Mizuno, a Mobile App Developer with over 7 years of experience in full-stack engineering and trading system development. I began my career building scalable web and backend infrastructures using Node.js, AWS, and Firebase, before expanding into mobile development, where I specialize in crafting high-performance iOS and Android applications with Swift, Kotlin, and Flutter. In addition to mobile apps, I’ve developed automated trading platforms that integrate live market data, AI-driven analytics, and automation APIs, enabling smarter decision-making and faster execution. I’m passionate about combining mobile innovation, intelligent architecture, and emerging AI technologies to deliver applications that are not only fast and reliable but also insight-driven and future-ready.
 
----
+## 📬 Contact
 
-## 📝 Summary
-
-Specializing in designing and developing user-centric platforms using the latest web technologies. Adept at integrating advanced features from blockchain, AI, and mobile to create innovative, end-to-end products.
-
----
-
-## 🛠️ Skills
-
-### 🖥️ Full-Stack Development (Core)
-- **Frontend:** React, Angular, Vue.js, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Nest.js, REST, GraphQL
-- **Database:** MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps:** Docker, CI/CD, AWS, Nginx
-
-### 🔗 Blockchain (Secondary)
-- Solana, Rust, Anchor, Smart Contracts, DeFi
-
-### 🤖 AI & Data (Secondary)
-- Python, Machine Learning, Web Scraping
-
-### 📱 Mobile (Secondary)
-- React Native, Flutter
-
----
+- `Portfolio`: https://harukimizuno.vercel.app
+- `Email`: mizunoharuki0624@gmail.com
+- `WhatsApp`: +1 (802) 771-7967
+- `Calendar`: https://calendly.com/harukimizuno0222
+- `LinkedIn`: https://www.linkedin.com/in/haruki-mizuno-6310a6365/
+- `GitHub`: http://github.com/0x0zeus
+- `Telegram`: @ChainCodeDev219
+- `Discord`: @haruki0624mizuno
 
 ## 🏆 Achievements & Metrics
 
