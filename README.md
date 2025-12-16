@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=6B13D6&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
+
 
 
 <h1 align="center">
@@ -35,4 +33,5 @@ Hi, I’m Haruki Mizuno, a Mobile App Developer with over 7 years of experience 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </div>
+
 
