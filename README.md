@@ -1,36 +1,103 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;Full-Stack+%7C+Trading+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45" />
 </h1>
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=0x0Zeus&color=brightgreen&label=PROFILE%20VIEWS&abbreviated=true&color=blueviolet&style=plastic)
+<div align="center">
+  <a href="https://harukimizuno.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mizunoharuki0624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://calendly.com/harukimizuno0222"><img alt="Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+  <a href="https://github.com/0x0Zeus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-## 👋 Introduction
+---
 
-Hi, I’m Haruki Mizuno, a Mobile App Developer with over 7 years of experience in full-stack engineering and trading system development. I began my career building scalable web and backend infrastructures using Node.js, AWS, and Firebase, before expanding into mobile development, where I specialize in crafting high-performance iOS and Android applications with Swift, Kotlin, and Flutter. In addition to mobile apps, I’ve developed automated trading platforms that integrate live market data, AI-driven analytics, and automation APIs, enabling smarter decision-making and faster execution. I’m passionate about combining mobile innovation, intelligent architecture, and emerging AI technologies to deliver applications that are not only fast and reliable but also insight-driven and future-ready.
+## About
 
-## 📬 Contact
+I’m a Mobile App Developer with 7+ years of experience across full-stack engineering and trading-system development. I build high-performance iOS/Android apps (Swift, Kotlin, Flutter) and the backend + infra behind them (Node.js, AWS, Firebase). I also ship automation and analytics pipelines that combine live market data with AI-driven decision support.
 
-- `Portfolio`: https://harukimizuno.vercel.app
-- `Email`: mizunoharuki0624@gmail.com
-- `Calendar`: https://calendly.com/harukimizuno0222
-- `LinkedIn`: https://www.linkedin.com/in/haruki-mizuno-6310a6365/
-- `GitHub`: http://github.com/0x0zeus
-- `Telegram`: @Mern005
-- `Discord`: @haruki0624mizuno
-- `Teams`: https://teams.live.com/l/invite/FEAvireA0ryVcg_aAM?v=g1
-
-## 🏆 Achievements & Metrics
+## Skills
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0x0Zeus&theme=discord&no-frame=false&no-bg=false&margin-w=20&margin-h=20&column=3">
+  <p><strong>Mobile · Full-stack · Trading systems · Applied AI</strong></p>
+</div>
+
+### Mobile
+<div align="center">
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart&perline=8" />
+</div>
+
+### Full-stack
+<div align="center">
+  <img alt="Full-stack" src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,nestjs,graphql&perline=8" />
+</div>
+
+### Trading / Data
+<div align="center">
+  <img alt="Trading and data" src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,mongodb&perline=8" />
+</div>
+
+### Cloud / DevOps / AI
+<div align="center">
+  <img alt="Cloud DevOps AI" src="https://skillicons.dev/icons?i=aws,firebase,docker,kubernetes,terraform,githubactions,pytorch,tensorflow&perline=8" />
+</div>
+
+## Focus
+
+- **Mobile**: Swift / Kotlin / Flutter, performance, reliability, clean architecture
+- **Backend & Infra**: Node.js, AWS, Firebase, scalable APIs + observability
+- **Trading & Automation**: market-data ingestion, execution workflows, risk-aware systems
+- **AI in production**: practical LLM integrations, tools/agents, workflow automation
+
+## Highlights (quick scan)
+
+- **End-to-end delivery**: product → architecture → implementation → deployment
+- **Performance-minded**: profiling, efficient data flows, and robust state management
+- **Systems thinking**: correctness, monitoring, failure modes, and iteration speed
+
+## Stats & visuals
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <img alt="GitHub streak stats" src="./profile/streak-light.svg" />
+  </picture>
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://harukimizuno.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:mizunoharuki0624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://calendly.com/harukimizuno0222"><img alt="Calendar" src="https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+<a href="https://github.com/0x0Zeus"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
 
 <div align="center">
-  <img src="./profile/streak-dark.svg">
+
+<a href="https://t.me/Mern005"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://discord.com/users/haruki0624mizuno"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://teams.live.com/l/invite/FEAvireA0ryVcg_aAM?v=g1"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /></a>
+
 </div>
+
+## Repo notes
+
+This repo auto-updates profile assets via GitHub Actions:
+
+- **3D contributions**: `.github/workflows/profile-3d.yml` → writes to `profile-3d-contrib/`
+- **Streak cards**: `.github/workflows/streak-stats.yml` → writes to `profile/`
