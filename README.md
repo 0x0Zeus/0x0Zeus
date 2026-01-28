@@ -89,7 +89,7 @@ I’m a Mobile App Developer with 7+ years of experience across full-stack engin
 
 <div align="center">
 
-<a href="https://t.me/Mern005"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/exponinja0624"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://discord.com/users/haruki0624mizuno"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://teams.live.com/l/invite/FEAvireA0ryVcg_aAM?v=g1"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /></a>
 
