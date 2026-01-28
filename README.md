@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
 
-
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;Full-Stack+%7C+Trading+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45" />
 </h1>
@@ -17,12 +14,12 @@ Hi, I’m Haruki Mizuno, a Mobile App Developer with over 7 years of experience 
 
 - `Portfolio`: https://harukimizuno.vercel.app
 - `Email`: mizunoharuki0624@gmail.com
-- `WhatsApp`: +1 (802) 771-7967
 - `Calendar`: https://calendly.com/harukimizuno0222
 - `LinkedIn`: https://www.linkedin.com/in/haruki-mizuno-6310a6365/
 - `GitHub`: http://github.com/0x0zeus
-- `Telegram`: @ChainCodeDev219
+- `Telegram`: @Mern005
 - `Discord`: @haruki0624mizuno
+- `Teams`: https://teams.live.com/l/invite/FEAvireA0ryVcg_aAM?v=g1
 
 ## 🏆 Achievements & Metrics
 
