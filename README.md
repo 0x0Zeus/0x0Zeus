@@ -101,3 +101,8 @@ This repo auto-updates profile assets via GitHub Actions:
 
 - **3D contributions**: `.github/workflows/profile-3d.yml` → writes to `profile-3d-contrib/`
 - **Streak cards**: `.github/workflows/streak-stats.yml` → writes to `profile/`
+
+
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
