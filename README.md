@@ -32,5 +32,5 @@ Hi, I’m Haruki Mizuno, a Mobile App Developer with over 7 years of experience 
 </div>
 
 <div align="center">
-  <img src="/profile/streak-dark.svg">
+  <img src="./profile/streak-dark.svg">
 </div>
