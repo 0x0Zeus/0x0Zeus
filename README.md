@@ -95,11 +95,7 @@ I’m a Mobile App Developer with 7+ years of experience across full-stack engin
 
 </div>
 
-## Repo notes
+![Moe Counter](https://count.getloli.com/@lazybigcat0624?name=lazybigcat0624&theme=sketch-1&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 
-This repo auto-updates profile assets via GitHub Actions:
-
-- **3D contributions**: `.github/workflows/profile-3d.yml` → writes to `profile-3d-contrib/`
-- **Streak cards**: `.github/workflows/streak-stats.yml` → writes to `profile/`
 
 
